@@ -1,4 +1,4 @@
-# ScatteringLabs: One-stop Marketplace for Fungible NFTs.
+# ScatteringLabs: Native marketplace for all hybrid NFTs.
 
 ![scattering vibe cover](/assets/scattering-vibe.png)
 
