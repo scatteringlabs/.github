@@ -15,6 +15,7 @@ Some of the more useful resources have been compiled below. Browse away 📜
 - [Website](https://scattering.io/)
 - [X](https://x.com/scattering_io)
 - [YouTube](https://www.youtube.com/@scatteringlabs)
+- [Discord](https://discord.com/invite/scattering)
+- [Telegram](https://t.me/hybridassets)
 - [Documentation](https://docs.scattering.io/)
 - [Bug Bounty](https://docs.scattering.io/security)
-- [Discord](https://discord.com/invite/scattering)
