@@ -1,4 +1,4 @@
-# ScatteringLabs: Native marketplace for all hybrid NFTs.
+# ScatteringLabs: Native marketplace for all hybrid assets.
 
 ![scattering vibe cover](/assets/scattering-vibe.png)
 
@@ -13,7 +13,7 @@ We are excited and honoured to be a part of the web3 developer community - we’
 Some of the more useful resources have been compiled below. Browse away 📜
 
 - [Website](https://scattering.io/)
-- [Twitter](https://twitter.com/scattering_io)
+- [X](https://x.com/scattering_io)
 - [YouTube](https://www.youtube.com/@scatteringlabs)
 - [Documentation](https://docs.scattering.io/)
 - [Bug Bounty](https://docs.scattering.io/security)
